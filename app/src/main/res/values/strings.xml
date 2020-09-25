@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="edit_name">Click!</string>
+    <string name="edit_text">Make Your Decision now!</string>
+    <string name="edit_button">Click button!</string>
+    <string name="edit_image">ball!</string>
+    <string name="edit_image1">Click!</string>
 </resources>
